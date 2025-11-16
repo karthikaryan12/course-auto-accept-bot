@@ -1,4 +1,2 @@
-pyrogram
-tgcrypto
-pyaes
-pysocks
+python-telegram-bot==20.6
+
